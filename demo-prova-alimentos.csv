@@ -1,101 +1,101 @@
-data;nome;sobrenome;gênero;produto;sabor;textura;aroma;aparência;"pontos fortes";"pontos fracos";impressão
-2022-01-01;João;Silva;M;"Filé de Frango Grelhado";4;3;4;4;"Sabor muito bom, suculento";"Demorou um pouco para ficar pronto";satisfação
-2022-01-02;Maria;Santos;F;"Hambúrguer de Frango";3;4;3;4;"Boa textura, carne macia";"Pouco sabor";satisfação
-2022-01-03;Carlos;Rodrigues;M;"Coxinha de Frango";5;4;5;4;"Sabor marcante, massa crocante";"Pouco recheio";satisfação
-2022-01-04;Ana;Lima;F;"Lasanha à Bolonhesa";5;5;5;5;"Saboroso;molho perfeito, massa leve";"Porção pequena";indulgência
-2022-01-05;Lucas;Ribeiro;M;"Frango empanado";4;4;3;4;"Crocante por fora, suculento por dentro";"Pouco tempero";satisfação
-2022-01-06;Julia;Silveira;F;"Hambúrguer de Picanha";5;5;5;5;"Carne suculenta;molho especial";"Porção pequena";indulgência
-2022-01-07;Marcelo;Ferreira;M;"Linguiça Toscana";4;4;4;3;"Sabor marcante, boa textura";"Pouco tempero";satisfação
-2022-01-08;Beatriz;Almeida;F;"Salsicha Hot Dog";2;3;2;3;"Preço acessível";"Sabor fraco";nojo
-2022-01-09;Leonardo;Moura;M;"Filé de Peito de Frango";3;5;4;4;"Boa aparência;carne macia";"Pouco sabor";satisfação
-2022-01-10;Larissa;Souza;F;"Frango à Passarinho";5;5;5;5;"Muito saboroso;crocante";"Porção pequena";indulgência
-2022-01-01;João;Silva;M;"Filé de Peito de Frango Empanado";4;4;4;3;"Saboroso, crocante";"Porção pequena";satisfação
-2022-01-02;Maria;Santos;F;"Coxinha de Frango com Catupiry";5;5;5;5;"Recheio cremoso, massa crocante";"Porção pequena";indulgência
-2022-01-03;Carlos;Rodrigues;M;"Linguiça Toscana com Pimenta";4;4;5;4;"Sabor marcante, picante";"Pouco tempero";satisfação
-2022-01-04;Ana;Lima;F;"Strogonoff de Frango";4;4;4;4;"Saboroso, molho cremoso";"Porção pequena";satisfação
-2022-01-05;Lucas;Ribeiro;M;"Hambúrguer de Picanha com Bacon";5;4;4;4;"Sabor intenso, bacon crocante";"Porção pequena";satisfação
-2022-01-06;Julia;Silveira;F;"Filezinho de Frango na Chapa";3;3;2;2;"Carne macia, preço acessível";"Pouco sabor";repulsa
-2022-01-07;Marcelo;Ferreira;M;"Nuggets de Frango";2;2;2;3;"Preço acessível";"Pouco sabor;pouca carne";nojo
-2022-01-08;Beatriz;Almeida;F;"Coxa de Frango Assada";4;3;3;3;"Boa aparência, carne suculenta";"Pouco tempero";satisfação
-2022-01-09;Leonardo;Moura;M;"Hambúrguer de Frango com Queijo";3;4;3;4;"Boa textura, queijo derretido";"Pouco sabor";satisfação
-2022-01-10;Larissa;Souza;F;"Coração de Frango Grelhado";4;4;3;3;"Saboroso, textura macia";"Porção pequena";satisfação
-2022-01-01;Enzo;Gonçalves;M;"Hambúrguer de Picanha com Bacon";5;5;5;5;"Sabor intenso, bacon crocante";"Porção pequena";satisfação
-2022-01-02;Isabela;Martins;F;"Coxa de Frango Assada";4;3;3;3;"Boa aparência, carne suculenta";"Pouco tempero";satisfação
-2022-01-03;Luiz;Mendes;M;"Filé de Peito de Frango Empanado";4;4;4;3;"Saboroso, crocante";"Porção pequena";satisfação
-2022-01-04;Giovana;Costa;F;"Strogonoff de Frango";4;4;4;4;"Saboroso, molho cremoso";"Porção pequena";satisfação
-2022-01-05;Felipe;Rocha;M;"Hambúrguer de Frango com Queijo";3;4;3;4;"Boa textura, queijo derretido";"Pouco sabor";satisfação
-2022-01-06;Larissa;Fernandes;F;"Filezinho de Frango na Chapa";3;3;2;2;"Carne macia, preço acessível";"Pouco sabor";repulsa
-2022-01-07;Guilherme;Silva;M;"Linguiça Toscana com Pimenta";4;4;5;4;"Sabor marcante, picante";"Pouco tempero";satisfação
-2022-01-08;Ana;Almeida;F;"Coração de Frango Grelhado";4;4;3;3;"Saboroso, textura macia";"Porção pequena";satisfação
-2022-01-09;Marcos;Pereira;M;"Coxinha de Frango com Catupiry";5;5;5;5;"Recheio cremoso, massa crocante";"Porção pequena";indulgência
-2022-01-10;Sofia;Monteiro;F;"Nuggets de Frango";2;2;2;3;"Preço acessível";"Pouco sabor, pouca carne";nojo
-2023-01-01;Matheus;Rodrigues;M;"Hambúrguer de Fraldinha com Cheddar";4;4;4;4;"Sabor marcante, queijo derretido";"Porção pequena";satisfação
-2023-01-02;Gabriela;Souza;F;"Coxa de Frango à Passarinho";3;3;3;3;"Carne suculenta, preço acessível";"Pouco tempero";satisfação
-2023-01-03;Rafaela;Lima;F;"Linguiça Calabresa com Queijo Coalho";5;5;5;5;"Sabor intenso, queijo derretido";"Porção pequena";indulgência
-2023-01-04;Leonardo;Santos;M;"Strogonoff de Carne";4;4;4;4;"Saboroso, molho cremoso";"Porção pequena";satisfação
-2023-01-05;Vinicius;Alves;M;"Kibe Frito com Recheio de Queijo";4;4;4;4;"Saboroso, queijo cremoso";"Porção pequena";satisfação
-2023-01-06;Larissa;Ribeiro;F;"Coxinha de Frango com Requeijão";5;5;5;5;"Recheio cremoso, massa crocante";"Porção pequena";indulgência
-2023-01-07;Pedro;Silveira;M;"Filé de Peixe Empanado";4;4;4;4;"Saboroso, crocante";"Porção pequena";satisfação
-2023-01-08;Juliana;Ferreira;F;"Hambúrguer de Picanha com Cebola Caramelizada";5;4;4;4;"Sabor intenso, cebola macia";"Porção pequena";satisfação
-2023-01-09;Carlos;Rocha;M;"Coração de Frango na Brasa";4;4;4;4;"Saboroso;textura macia";"Porção pequena";satisfação
-2023-01-10;Marcela;Barbosa;F;"Nuggets de Frango com Molho Barbecue";3;3;3;3;"Molho saboroso, preço acessível";"Pouco sabor, pouca carne";satisfação
-2023-01-01;Lucas;Silva;M;"Frango à Passarinho";3;3;3;3;"Crocante, preço acessível";"Pouco tempero";satisfação
-2023-01-02;Isabela;Fernandes;F;"Coxinha de Frango";4;4;4;4;"Recheio cremoso, massa crocante";"Porção pequena";satisfação
-2023-01-03;Rodrigo;Rocha;M;"Picanha Suína com Molho Barbecue";5;5;5;5;"Sabor intenso, molho saboroso";"Porção pequena";indulgência
-2023-01-04;Carla;Souza;F;"Hambúrguer de Costela com Queijo Prato";4;4;4;4;"Saboroso, queijo derretido";"Porção pequena";satisfação
-2023-01-05;Gustavo;Almeida;M;"Linguiça Toscana com Pimenta Biquinho";3;3;3;3;"Preço acessível, sabor picante";"Porção pequena";satisfação
-2023-01-06;Ana;Lima;F;"Strogonoff de Frango";4;4;4;4;"Molho cremoso, saboroso";"Porção pequena";satisfação
-2023-01-07;Rafael;Santos;M;"Kibe Assado Recheado com Queijo";4;4;4;4;"Saboroso, queijo cremoso";"Porção pequena";satisfação
-2023-01-08;Fernanda;Martins;F;"Coração de Frango na Churrasqueira";3;3;3;3;"Preço acessível, textura macia";"Porção pequena";satisfação
-2023-01-09;João;Pereira;M;"Nuggets de Frango";2;2;2;2;"Preço acessível, crocante";"Pouco sabor, pouca carne";nojo
-2023-01-10;Larissa;Campos;F;"Filé de Tilápia Grelhado";4;4;4;4;"Saboroso, crocante";"Porção pequena";satisfação
-2023-01-01;Juliana;Mendes;F;"Frango à Parmegiana";4;3;4;3;"Bem temperado, molho gostoso";"Porção pequena";satisfação
-2023-01-02;Matheus;Rodrigues;M;"Salsicha de Frango com Queijo";2;2;2;2;"Preço acessível, fácil de preparar";"Pouco sabor, textura emborrachada";nojo
-2023-01-03;Luana;Ferreira;F;"Bife de Frango Grelhado";3;4;3;4;"Saboroso, suculento";"Porção pequena";satisfação
-2023-01-04;Rodolfo;Moraes;M;"Lasanha de Frango com Requeijão";5;5;5;5;"Recheio cremoso, molho saboroso";"Porção pequena";indulgência
-2023-01-05;Beatriz;Santana;F;"Bolinho de Bacalhau";4;4;4;4;"Saboroso, crocante";"Porção pequena";satisfação
-2023-01-06;Renato;Gomes;M;"Costelinha Suína Assada";5;4;5;4;"Sabor intenso, macia";"Porção pequena";satisfação
-2023-01-07;Bianca;Araújo;F;"Frango à Milanesa";3;3;3;3;"Crocante, preço acessível";"Porção pequena";satisfação
-2023-01-08;Vinícius;Costa;M;"Linguiça de Pernil com Pimenta";4;4;4;4;"Saboroso, preço acessível";"Porção pequena";satisfação
-2023-01-09;Mariana;Albuquerque;F;"Filé Mignon Grelhado";5;5;5;5;"Macio, suculento";"Porção pequena";indulgência
-2023-01-10;Gabriel;Oliveira;M;"Frango Assado com Batatas";4;4;4;4;"Saboroso, bem temperado";"Porção pequena";satisfação
-2023-01-01;André;Alves;M;"Peito de Frango Grelhado";4;4;4;4;"Saboroso, saudável";"Um pouco seco";satisfação
-2023-01-02;Larissa;Mendes;F;"Hambúrguer de Picanha";5;5;5;5;"Sabor intenso, suculento";"Preço elevado";satisfação
-2023-01-03;Guilherme;Rodrigues;M;"Linguiça de Frango com Queijo Coalho";4;4;4;4;"Queijo derretido, saboroso";"Porção pequena";satisfação
-2023-01-04;Carolina;Souza;F;"Coxinha de Frango com Catupiry";3;3;3;3;"Recheio cremoso, preço acessível";"Massa um pouco seca";satisfação
-2023-01-05;Lucas;Fernandes;M;"Frango à Parmegiana";4;4;4;4;"Saboroso, bem servido";"Preço elevado";satisfação
-2023-01-06;Juliana;Lima;F;"Peixe ao Molho de Maracujá";3;3;3;3;"Molho saboroso, refrescante";"Peixe um pouco seco";satisfação
-2023-01-07;Rafaela;Santos;F;"Linguiça Calabresa Acebolada";4;4;4;4;"Saboroso, cebola caramelizada";"Porção pequena";satisfação
-2023-01-08;Pedro;Barros;M;"Estrogonofe de Carne";5;5;5;5;"Molho cremoso, carne macia";"Preço elevado";indulgência
-2023-01-09;Marcela;Oliveira;F;"Filé de Frango à Milanesa";3;3;3;3;"Preço acessível, crocante";"Um pouco seco";satisfação
-2023-01-10;Diego;Castro;M;"Costelinha de Porco com Molho Barbecue";4;4;4;4;"Saboroso;molho agridoce";"Porção pequena";satisfação
-2023-01-01;Marcela;Alves;F;"Frango à Passarinho";3;3;3;3;"Crocante, preço acessível";"Pouco tempero";satisfação
-2023-01-02;Matheus;Gomes;M;"Coxinha de Frango";4;4;4;4;"Recheio cremoso, massa crocante";"Porção pequena";satisfação
-2023-01-03;Ana;Lima;F;"Picanha Suína com Molho Barbecue";5;5;5;5;"Sabor intenso, molho saboroso";"Porção pequena";indulgência
-2023-01-04;Gabriel;Rodrigues;M;"Hambúrguer de Costela com Queijo Prato";4;4;4;4;"Saboroso, queijo derretido";"Porção pequena";satisfação
-2023-01-05;Larissa;Moreira;F;"Linguiça Toscana com Pimenta Biquinho";3;3;3;3;"Preço acessível, sabor picante";"Porção pequena";satisfação
-2023-01-06;João;Albuquerque;M;"Strogonoff de Frango";4;4;4;4;"Molho cremoso, saboroso";"Porção pequena";satisfação
-2023-01-07;Luiza;Souza;F;"Kibe Assado Recheado com Queijo";4;4;4;4;"Saboroso, queijo cremoso";"Porção pequena";satisfação
-2023-01-08;Paulo;Costa;M;"Coração de Frango na Churrasqueira";3;3;3;3;"Preço acessível, textura macia";"Porção pequena";satisfação
-2023-01-09;Giovana;Ferreira;F;"Nuggets de Frango";2;2;2;2;"Preço acessível, crocante";"Pouco sabor;pouca carne";nojo
-2023-01-10;Rafael;Silveira;M;"Filé de Tilápia Grelhado";4;4;4;4;"Saboroso, crocante";"Porção pequena";satisfação
-2023-01-01;Luiz;Henrique;M;"Coxa e Sobrecoxa de Frango";4;4;3;4;"Sabor marcante, suculento";"Pouco tempero";satisfação
-2023-01-02;Juliana;Carvalho;F;"Bife à Milanesa";3;4;4;3;"Crocante por fora e macio por dentro";"Pouca quantidade de carne";satisfação
-2023-01-03;Marcelo;Ferreira;M;"Salsicha Hot Dog";2;3;3;2;"Bom custo-benefício, fácil de preparar";"Pouco sabor";indulgência
-2023-01-04;Carolina;Souza;F;"Carne de Sol na Nata";5;5;5;5;"Saboroso, macio, nata cremosa";"Porção pequena";satisfação
-2023-01-05;Eduardo;Santos;M;"Hambúrguer Vegetariano";3;4;4;4;"Saboroso, boa textura";"Pouca variedade de ingredientes";satisfação
-2023-01-06;Isabela;Mendes;F;"Bacon em Cubos";4;3;4;4;"Sabor marcante, crocante";"Pouca quantidade";indulgência
-2023-01-07;André;Oliveira;M;"Linguiça Calabresa";3;3;3;3;"Preço acessível, saboroso";"Pouca quantidade";satisfação
-2023-01-08;Fernanda;Albuquerque;F;"Lasanha à Bolonhesa";4;4;4;4;"Bem montada, saborosa";"Um pouco salgada";satisfação
-2023-01-09;Gabriel;Rodrigues;M;"Frango Desfiado";2;2;2;2;"Prático, fácil de preparar";"Pouco sabor";nojo
-2023-01-10;Ana;Caroline;F;"Torta de Frango";4;3;4;4;"Bem recheada, saborosa";"A massa poderia estar mais crocante";satisfação
-2023-05-01;Gabriel;Santana;M;"Peito de Frango Assado";4;4;4;4;"Saboroso, macio";"Porção pequena";satisfação
-2023-05-02;Julia;Albuquerque;F;"Lombo de Porco com Alecrim";5;5;5;5;"Sabor intenso, tempero perfeito";"Porção pequena";indulgência
-2023-05-03;Lucas;Ribeiro;M;"Coxinha de Frango";3;3;3;3;"Massa crocante, preço acessível";"Recheio pouco cremoso";satisfação
-2023-05-04;Ana;Martins;F;"Kibe Recheado com Queijo";4;4;4;4;"Saboroso, queijo derretido";"Porção pequena";satisfação
-2023-05-05;Marcos;Silva;M;"Espetinho de Carne";4;4;4;4;"Saboroso, suculento";"Porção pequena";satisfação
-2023-05-06;Isabela;Costa;F;"Salpicão de Frango";3;3;3;3;"Bem temperado, preço acessível";"Pouca carne";satisfação
-2023-05-07;Luiz;Oliveira;M;"Linguiça Toscana com Queijo Coalho";5;5;5;5;"Saboroso, queijo derretido";"Porção pequena";indulgência
-2023-05-08;Camila;Ferreira;F;"Peito de Peru Defumado";3;3;3;3;"Preço acessível, textura macia";"Porção pequena";satisfação
-2023-05-09;Marcelo;Moura;M;"Coxa de Frango Assada";4;4;4;4;"Saboroso, suculento";"Porção pequena";satisfação
-2023-05-10;Sofia;Rodrigues;F;"Linguiça Calabresa Acebolada";4;4;4;4;"Bem temperada, preço acessível";"Porção pequena";satisfação
+data,nome,sobrenome,gênero,produto,sabor,textura,aroma,aparência,"pontos fortes","pontos fracos",impressão
+2022-01-01,João,Silva,M,"Filé de Frango Grelhado",4,3,4,4,"Sabor muito bom, suculento","Demorou um pouco para ficar pronto",satisfação
+2022-01-02,Maria,Santos,F,"Hambúrguer de Frango",3,4,3,4,"Boa textura, carne macia","Pouco sabor",satisfação
+2022-01-03,Carlos,Rodrigues,M,"Coxinha de Frango",5,4,5,4,"Sabor marcante, massa crocante","Pouco recheio",satisfação
+2022-01-04,Ana,Lima,F,"Lasanha à Bolonhesa",5,5,5,5,"Saboroso,molho perfeito, massa leve","Porção pequena",indulgência
+2022-01-05,Lucas,Ribeiro,M,"Frango empanado",4,4,3,4,"Crocante por fora, suculento por dentro","Pouco tempero",satisfação
+2022-01-06,Julia,Silveira,F,"Hambúrguer de Picanha",5,5,5,5,"Carne suculenta,molho especial","Porção pequena",indulgência
+2022-01-07,Marcelo,Ferreira,M,"Linguiça Toscana",4,4,4,3,"Sabor marcante, boa textura","Pouco tempero",satisfação
+2022-01-08,Beatriz,Almeida,F,"Salsicha Hot Dog",2,3,2,3,"Preço acessível","Sabor fraco",nojo
+2022-01-09,Leonardo,Moura,M,"Filé de Peito de Frango",3,5,4,4,"Boa aparência,carne macia","Pouco sabor",satisfação
+2022-01-10,Larissa,Souza,F,"Frango à Passarinho",5,5,5,5,"Muito saboroso,crocante","Porção pequena",indulgência
+2022-01-01,João,Silva,M,"Filé de Peito de Frango Empanado",4,4,4,3,"Saboroso, crocante","Porção pequena",satisfação
+2022-01-02,Maria,Santos,F,"Coxinha de Frango com Catupiry",5,5,5,5,"Recheio cremoso, massa crocante","Porção pequena",indulgência
+2022-01-03,Carlos,Rodrigues,M,"Linguiça Toscana com Pimenta",4,4,5,4,"Sabor marcante, picante","Pouco tempero",satisfação
+2022-01-04,Ana,Lima,F,"Strogonoff de Frango",4,4,4,4,"Saboroso, molho cremoso","Porção pequena",satisfação
+2022-01-05,Lucas,Ribeiro,M,"Hambúrguer de Picanha com Bacon",5,4,4,4,"Sabor intenso, bacon crocante","Porção pequena",satisfação
+2022-01-06,Julia,Silveira,F,"Filezinho de Frango na Chapa",3,3,2,2,"Carne macia, preço acessível","Pouco sabor",repulsa
+2022-01-07,Marcelo,Ferreira,M,"Nuggets de Frango",2,2,2,3,"Preço acessível","Pouco sabor,pouca carne",nojo
+2022-01-08,Beatriz,Almeida,F,"Coxa de Frango Assada",4,3,3,3,"Boa aparência, carne suculenta","Pouco tempero",satisfação
+2022-01-09,Leonardo,Moura,M,"Hambúrguer de Frango com Queijo",3,4,3,4,"Boa textura, queijo derretido","Pouco sabor",satisfação
+2022-01-10,Larissa,Souza,F,"Coração de Frango Grelhado",4,4,3,3,"Saboroso, textura macia","Porção pequena",satisfação
+2022-01-01,Enzo,Gonçalves,M,"Hambúrguer de Picanha com Bacon",5,5,5,5,"Sabor intenso, bacon crocante","Porção pequena",satisfação
+2022-01-02,Isabela,Martins,F,"Coxa de Frango Assada",4,3,3,3,"Boa aparência, carne suculenta","Pouco tempero",satisfação
+2022-01-03,Luiz,Mendes,M,"Filé de Peito de Frango Empanado",4,4,4,3,"Saboroso, crocante","Porção pequena",satisfação
+2022-01-04,Giovana,Costa,F,"Strogonoff de Frango",4,4,4,4,"Saboroso, molho cremoso","Porção pequena",satisfação
+2022-01-05,Felipe,Rocha,M,"Hambúrguer de Frango com Queijo",3,4,3,4,"Boa textura, queijo derretido","Pouco sabor",satisfação
+2022-01-06,Larissa,Fernandes,F,"Filezinho de Frango na Chapa",3,3,2,2,"Carne macia, preço acessível","Pouco sabor",repulsa
+2022-01-07,Guilherme,Silva,M,"Linguiça Toscana com Pimenta",4,4,5,4,"Sabor marcante, picante","Pouco tempero",satisfação
+2022-01-08,Ana,Almeida,F,"Coração de Frango Grelhado",4,4,3,3,"Saboroso, textura macia","Porção pequena",satisfação
+2022-01-09,Marcos,Pereira,M,"Coxinha de Frango com Catupiry",5,5,5,5,"Recheio cremoso, massa crocante","Porção pequena",indulgência
+2022-01-10,Sofia,Monteiro,F,"Nuggets de Frango",2,2,2,3,"Preço acessível","Pouco sabor, pouca carne",nojo
+2023-01-01,Matheus,Rodrigues,M,"Hambúrguer de Fraldinha com Cheddar",4,4,4,4,"Sabor marcante, queijo derretido","Porção pequena",satisfação
+2023-01-02,Gabriela,Souza,F,"Coxa de Frango à Passarinho",3,3,3,3,"Carne suculenta, preço acessível","Pouco tempero",satisfação
+2023-01-03,Rafaela,Lima,F,"Linguiça Calabresa com Queijo Coalho",5,5,5,5,"Sabor intenso, queijo derretido","Porção pequena",indulgência
+2023-01-04,Leonardo,Santos,M,"Strogonoff de Carne",4,4,4,4,"Saboroso, molho cremoso","Porção pequena",satisfação
+2023-01-05,Vinicius,Alves,M,"Kibe Frito com Recheio de Queijo",4,4,4,4,"Saboroso, queijo cremoso","Porção pequena",satisfação
+2023-01-06,Larissa,Ribeiro,F,"Coxinha de Frango com Requeijão",5,5,5,5,"Recheio cremoso, massa crocante","Porção pequena",indulgência
+2023-01-07,Pedro,Silveira,M,"Filé de Peixe Empanado",4,4,4,4,"Saboroso, crocante","Porção pequena",satisfação
+2023-01-08,Juliana,Ferreira,F,"Hambúrguer de Picanha com Cebola Caramelizada",5,4,4,4,"Sabor intenso, cebola macia","Porção pequena",satisfação
+2023-01-09,Carlos,Rocha,M,"Coração de Frango na Brasa",4,4,4,4,"Saboroso,textura macia","Porção pequena",satisfação
+2023-01-10,Marcela,Barbosa,F,"Nuggets de Frango com Molho Barbecue",3,3,3,3,"Molho saboroso, preço acessível","Pouco sabor, pouca carne",satisfação
+2023-01-01,Lucas,Silva,M,"Frango à Passarinho",3,3,3,3,"Crocante, preço acessível","Pouco tempero",satisfação
+2023-01-02,Isabela,Fernandes,F,"Coxinha de Frango",4,4,4,4,"Recheio cremoso, massa crocante","Porção pequena",satisfação
+2023-01-03,Rodrigo,Rocha,M,"Picanha Suína com Molho Barbecue",5,5,5,5,"Sabor intenso, molho saboroso","Porção pequena",indulgência
+2023-01-04,Carla,Souza,F,"Hambúrguer de Costela com Queijo Prato",4,4,4,4,"Saboroso, queijo derretido","Porção pequena",satisfação
+2023-01-05,Gustavo,Almeida,M,"Linguiça Toscana com Pimenta Biquinho",3,3,3,3,"Preço acessível, sabor picante","Porção pequena",satisfação
+2023-01-06,Ana,Lima,F,"Strogonoff de Frango",4,4,4,4,"Molho cremoso, saboroso","Porção pequena",satisfação
+2023-01-07,Rafael,Santos,M,"Kibe Assado Recheado com Queijo",4,4,4,4,"Saboroso, queijo cremoso","Porção pequena",satisfação
+2023-01-08,Fernanda,Martins,F,"Coração de Frango na Churrasqueira",3,3,3,3,"Preço acessível, textura macia","Porção pequena",satisfação
+2023-01-09,João,Pereira,M,"Nuggets de Frango",2,2,2,2,"Preço acessível, crocante","Pouco sabor, pouca carne",nojo
+2023-01-10,Larissa,Campos,F,"Filé de Tilápia Grelhado",4,4,4,4,"Saboroso, crocante","Porção pequena",satisfação
+2023-01-01,Juliana,Mendes,F,"Frango à Parmegiana",4,3,4,3,"Bem temperado, molho gostoso","Porção pequena",satisfação
+2023-01-02,Matheus,Rodrigues,M,"Salsicha de Frango com Queijo",2,2,2,2,"Preço acessível, fácil de preparar","Pouco sabor, textura emborrachada",nojo
+2023-01-03,Luana,Ferreira,F,"Bife de Frango Grelhado",3,4,3,4,"Saboroso, suculento","Porção pequena",satisfação
+2023-01-04,Rodolfo,Moraes,M,"Lasanha de Frango com Requeijão",5,5,5,5,"Recheio cremoso, molho saboroso","Porção pequena",indulgência
+2023-01-05,Beatriz,Santana,F,"Bolinho de Bacalhau",4,4,4,4,"Saboroso, crocante","Porção pequena",satisfação
+2023-01-06,Renato,Gomes,M,"Costelinha Suína Assada",5,4,5,4,"Sabor intenso, macia","Porção pequena",satisfação
+2023-01-07,Bianca,Araújo,F,"Frango à Milanesa",3,3,3,3,"Crocante, preço acessível","Porção pequena",satisfação
+2023-01-08,Vinícius,Costa,M,"Linguiça de Pernil com Pimenta",4,4,4,4,"Saboroso, preço acessível","Porção pequena",satisfação
+2023-01-09,Mariana,Albuquerque,F,"Filé Mignon Grelhado",5,5,5,5,"Macio, suculento","Porção pequena",indulgência
+2023-01-10,Gabriel,Oliveira,M,"Frango Assado com Batatas",4,4,4,4,"Saboroso, bem temperado","Porção pequena",satisfação
+2023-01-01,André,Alves,M,"Peito de Frango Grelhado",4,4,4,4,"Saboroso, saudável","Um pouco seco",satisfação
+2023-01-02,Larissa,Mendes,F,"Hambúrguer de Picanha",5,5,5,5,"Sabor intenso, suculento","Preço elevado",satisfação
+2023-01-03,Guilherme,Rodrigues,M,"Linguiça de Frango com Queijo Coalho",4,4,4,4,"Queijo derretido, saboroso","Porção pequena",satisfação
+2023-01-04,Carolina,Souza,F,"Coxinha de Frango com Catupiry",3,3,3,3,"Recheio cremoso, preço acessível","Massa um pouco seca",satisfação
+2023-01-05,Lucas,Fernandes,M,"Frango à Parmegiana",4,4,4,4,"Saboroso, bem servido","Preço elevado",satisfação
+2023-01-06,Juliana,Lima,F,"Peixe ao Molho de Maracujá",3,3,3,3,"Molho saboroso, refrescante","Peixe um pouco seco",satisfação
+2023-01-07,Rafaela,Santos,F,"Linguiça Calabresa Acebolada",4,4,4,4,"Saboroso, cebola caramelizada","Porção pequena",satisfação
+2023-01-08,Pedro,Barros,M,"Estrogonofe de Carne",5,5,5,5,"Molho cremoso, carne macia","Preço elevado",indulgência
+2023-01-09,Marcela,Oliveira,F,"Filé de Frango à Milanesa",3,3,3,3,"Preço acessível, crocante","Um pouco seco",satisfação
+2023-01-10,Diego,Castro,M,"Costelinha de Porco com Molho Barbecue",4,4,4,4,"Saboroso,molho agridoce","Porção pequena",satisfação
+2023-01-01,Marcela,Alves,F,"Frango à Passarinho",3,3,3,3,"Crocante, preço acessível","Pouco tempero",satisfação
+2023-01-02,Matheus,Gomes,M,"Coxinha de Frango",4,4,4,4,"Recheio cremoso, massa crocante","Porção pequena",satisfação
+2023-01-03,Ana,Lima,F,"Picanha Suína com Molho Barbecue",5,5,5,5,"Sabor intenso, molho saboroso","Porção pequena",indulgência
+2023-01-04,Gabriel,Rodrigues,M,"Hambúrguer de Costela com Queijo Prato",4,4,4,4,"Saboroso, queijo derretido","Porção pequena",satisfação
+2023-01-05,Larissa,Moreira,F,"Linguiça Toscana com Pimenta Biquinho",3,3,3,3,"Preço acessível, sabor picante","Porção pequena",satisfação
+2023-01-06,João,Albuquerque,M,"Strogonoff de Frango",4,4,4,4,"Molho cremoso, saboroso","Porção pequena",satisfação
+2023-01-07,Luiza,Souza,F,"Kibe Assado Recheado com Queijo",4,4,4,4,"Saboroso, queijo cremoso","Porção pequena",satisfação
+2023-01-08,Paulo,Costa,M,"Coração de Frango na Churrasqueira",3,3,3,3,"Preço acessível, textura macia","Porção pequena",satisfação
+2023-01-09,Giovana,Ferreira,F,"Nuggets de Frango",2,2,2,2,"Preço acessível, crocante","Pouco sabor,pouca carne",nojo
+2023-01-10,Rafael,Silveira,M,"Filé de Tilápia Grelhado",4,4,4,4,"Saboroso, crocante","Porção pequena",satisfação
+2023-01-01,Luiz,Henrique,M,"Coxa e Sobrecoxa de Frango",4,4,3,4,"Sabor marcante, suculento","Pouco tempero",satisfação
+2023-01-02,Juliana,Carvalho,F,"Bife à Milanesa",3,4,4,3,"Crocante por fora e macio por dentro","Pouca quantidade de carne",satisfação
+2023-01-03,Marcelo,Ferreira,M,"Salsicha Hot Dog",2,3,3,2,"Bom custo-benefício, fácil de preparar","Pouco sabor",indulgência
+2023-01-04,Carolina,Souza,F,"Carne de Sol na Nata",5,5,5,5,"Saboroso, macio, nata cremosa","Porção pequena",satisfação
+2023-01-05,Eduardo,Santos,M,"Hambúrguer Vegetariano",3,4,4,4,"Saboroso, boa textura","Pouca variedade de ingredientes",satisfação
+2023-01-06,Isabela,Mendes,F,"Bacon em Cubos",4,3,4,4,"Sabor marcante, crocante","Pouca quantidade",indulgência
+2023-01-07,André,Oliveira,M,"Linguiça Calabresa",3,3,3,3,"Preço acessível, saboroso","Pouca quantidade",satisfação
+2023-01-08,Fernanda,Albuquerque,F,"Lasanha à Bolonhesa",4,4,4,4,"Bem montada, saborosa","Um pouco salgada",satisfação
+2023-01-09,Gabriel,Rodrigues,M,"Frango Desfiado",2,2,2,2,"Prático, fácil de preparar","Pouco sabor",nojo
+2023-01-10,Ana,Caroline,F,"Torta de Frango",4,3,4,4,"Bem recheada, saborosa","A massa poderia estar mais crocante",satisfação
+2023-05-01,Gabriel,Santana,M,"Peito de Frango Assado",4,4,4,4,"Saboroso, macio","Porção pequena",satisfação
+2023-05-02,Julia,Albuquerque,F,"Lombo de Porco com Alecrim",5,5,5,5,"Sabor intenso, tempero perfeito","Porção pequena",indulgência
+2023-05-03,Lucas,Ribeiro,M,"Coxinha de Frango",3,3,3,3,"Massa crocante, preço acessível","Recheio pouco cremoso",satisfação
+2023-05-04,Ana,Martins,F,"Kibe Recheado com Queijo",4,4,4,4,"Saboroso, queijo derretido","Porção pequena",satisfação
+2023-05-05,Marcos,Silva,M,"Espetinho de Carne",4,4,4,4,"Saboroso, suculento","Porção pequena",satisfação
+2023-05-06,Isabela,Costa,F,"Salpicão de Frango",3,3,3,3,"Bem temperado, preço acessível","Pouca carne",satisfação
+2023-05-07,Luiz,Oliveira,M,"Linguiça Toscana com Queijo Coalho",5,5,5,5,"Saboroso, queijo derretido","Porção pequena",indulgência
+2023-05-08,Camila,Ferreira,F,"Peito de Peru Defumado",3,3,3,3,"Preço acessível, textura macia","Porção pequena",satisfação
+2023-05-09,Marcelo,Moura,M,"Coxa de Frango Assada",4,4,4,4,"Saboroso, suculento","Porção pequena",satisfação
+2023-05-10,Sofia,Rodrigues,F,"Linguiça Calabresa Acebolada",4,4,4,4,"Bem temperada, preço acessível","Porção pequena",satisfação
